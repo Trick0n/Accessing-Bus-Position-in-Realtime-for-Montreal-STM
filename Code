@@ -126,7 +126,7 @@
     "url_vehicle = \"https://api.stm.info/pub/od/gtfs-rt/ic/v1/vehiclePositions/\"\n",
     "\n",
     "#clé API qui nous offre un accès à la base de donnée, comme un mot de passe\n",
-    "headers = {'apikey': \"l7xxb1d4a72c242f4709a4a96ca493b17e81\"}\n",
+    "headers = {'apikey': \"insert your API key\"}\n",
     "\n",
     "#l'utilisateur rentre le nom de la ligne de bus qui l'intéresse\n",
     "#par exemple si il veut la ligne 51 en direction de l'Est, il rentre : 51-E\n",
